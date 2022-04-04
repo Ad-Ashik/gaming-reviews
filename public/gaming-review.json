@@ -43,7 +43,7 @@
     },
     {
         "id": 7,
-        "name": "Norman L. Mohammed",
+        "name": "Norman Mohammed",
         "review": "one of my hobbies is piano. and when i'm playing piano this works great.",
         "rating": 4.3,
         "img": "https://www.startech.com.bd/image/cache/catalog/gaming-chair/xigmatek/hairpin/hairpin-white-01-228x228.jpg"
@@ -61,5 +61,26 @@
         "review": "heard about this on Kansas City jazz radio, decided to give it a try.",
         "rating": 5.0,
         "img": "https://www.startech.com.bd/image/cache/catalog/gaming-chair/1stplayer/dk2/dk2-02-228x228.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Benjamin M. Turner",
+        "review": "one of my hobbies is programming. and when i'm programming this works great.",
+        "rating": 4.9,
+        "img": "https://www.startech.com.bd/image/cache/catalog/gaming-chair/meetion/mt-chr15/mt-chr15-0010-228x228.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Robert D. Gray",
+        "review": "one of my hobbies is sailing. and when i'm sailing this works great.",
+        "rating": 4.6,
+        "img": "https://www.startech.com.bd/image/cache/catalog/gaming-chair/meetion/mt-chr05/mt-chr05-01-black-228x228.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Laura C. Rosado",
+        "review": "I tried to scratch it but got cheeseburger all over it.",
+        "rating": 4.9,
+        "img": "https://www.startech.com.bd/image/cache/catalog/gaming-chair/havit/hv-gc932/hv-gc932-red-228x228.jpg"
     }
 ]

@@ -19,5 +19,26 @@
         "review": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
         "rating": 4.9,
         "img": "https://www.startech.com.bd/image/cache/catalog/gaming-chair/1stplayer/p01/p01-black-yellow-01-228x228.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Joshua S. Dolphin",
+        "review": "heard about this on melodic death metal radio, decided to give it a try.",
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/gaming-chair/marvo/ch106/ch-106-yellow-1-228x228.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Maria L. Morgan",
+        "review": "This gaming char works quite well. It romantically improves my golf by a lot.",
+        "rating": 4.7,
+        "img": "https://www.startech.com.bd/image/cache/catalog/gaming-chair/1stplayer/fk2/fk2-02-228x228.jpg"
+    },
+    {
+        "id": 6,
+        "name": "James M. Fryar",
+        "review": "My co-worker Matthew has one of these. He says it looks gigantic.",
+        "rating": 4.0,
+        "img": "https://www.startech.com.bd/image/cache/catalog/gaming-chair/gamemax/gcr07/gcr07-green-1-228x228.jpg"
     }
 ]

@@ -6,3 +6,9 @@
 .gaming-chair p {
     text-align: justify;
 }
+
+/* products container */
+.customer-review-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

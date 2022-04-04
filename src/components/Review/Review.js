@@ -1,10 +1,8 @@
 import React from 'react';
-import './Products.css';
 
-const Products = (props) => {
-    const { name, review, rating, img } = props.product;
+const Review = (props) => {
+    const { name, review, rating, img } = props.item;
     return (
-
         <div className="customer-review my-3">
             <div className='review-detail'>
                 <img src={img} alt="" />
@@ -13,9 +11,7 @@ const Products = (props) => {
             </div>
             <button className='btn-cart review'>Raiting: <small>{rating}</small></button>
         </div>
-
     );
 };
 
-export default Products;
-
+export default Review;
