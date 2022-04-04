@@ -1,0 +1,10 @@
+.customer-review {
+    border: 1px solid #dfdfdf;
+    border-radius: 8px;
+    padding: 0 8px;
+    width: 242px;
+}
+
+.review-img {
+    background-color: red;
+}

@@ -1,0 +1,8 @@
+.gaming-container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.gaming-chair p {
+    text-align: justify;
+}
