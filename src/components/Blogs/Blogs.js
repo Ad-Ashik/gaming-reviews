@@ -3,7 +3,12 @@ import React from 'react';
 const Blogs = () => {
     return (
         <div>
-            <h2>Hey, please create your Blogs!!</h2>
+            <h2 className='text-center my-5'>Hey, please create your Blogs!!</h2>
+            <h4>What is Semantic Tags?</h4>
+            <p>Semantic tags define the purpose of the HTML tags. Semantic tags help search engines and benifit your site. uese semantic tags easy page layout. Semantic tags easly understand web code. basic html5 template using Semantic tags </p>
+
+            <h4>What is inline and inline block difference?</h4>
+            <p>Inline element any height and width no effect. Inline block any height and width work.Inline element any height and width no effect. Inline block any height and width work. inline and inline block almost same. smiple difference in between inlin and inline block (top,left,right,bottom). Inline element don't start new link.</p>
         </div>
     );
 };

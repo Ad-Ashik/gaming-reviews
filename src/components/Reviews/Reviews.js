@@ -1,15 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import useRivews from '../../hooks/useRivews';
 import Review from '../Review/Review';
 
 const Reviews = () => {
-    const [reviews, setReviews] = useState([]);
-
-    useEffect(() => {
-        const url = 'gaming-review.json';
-        fetch(url)
-            .then(res => res.json())
-            .then(data => setReviews(data))
-    }, [])
+    const [reviews, setReviews] = useRivews();
     return (
         <div className='container'>
             <h2 className='text-center my-5'>Review Item...({reviews.length})</h2>
