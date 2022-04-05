@@ -25,6 +25,7 @@ const Home = () => {
                 <h1 className='text-center my-5'>Customer Review({products.length})</h1>
                 <div className='customer-review-container my-5'>
                     {
+                        // products.slice(0,3);
                         products.map(product => <Products
                             key={product.id}
                             product={product}
