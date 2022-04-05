@@ -3,7 +3,7 @@ import CustomLink from '../CustomLink/CustomLink';
 
 const Header = () => {
     return (
-        <nav className='mt-4 fs-4'>
+        <nav className='mt-4 fs-5'>
             <ul className="nav justify-content-center">
                 <li className="nav-item">
                     <CustomLink to="/" className="nav-link">Home</CustomLink>

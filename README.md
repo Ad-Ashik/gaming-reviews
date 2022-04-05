@@ -1,8 +1,8 @@
 # Gaming Review Site
 
-[Create React App](https://gaming-reviews-site.netlify.app/)
+## [Live site Link](https://gaming-reviews-site.netlify.app/)
 
-## My website Live link
+# My website Live link
 Open https://gaming-reviews-site.netlify.app/ to view it in your browser.
 
 
